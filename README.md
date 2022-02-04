@@ -1,2 +1,2 @@
 # ERGONOMIC-WEB-TECHNOLOGIES
-Еhis repository contains materials for Ergonomic web technologies
+This repository contains materials for Ergonomic web technologies
