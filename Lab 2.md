@@ -35,6 +35,25 @@
   
 <img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1645916345/EVT/Screenshot_2022-02-27_015838_bawc52.png"/>
 
+### Анализ запросов по данной тематике в Yandex
+Как видно из результатов, топ-3 запроса по данной теме:
+* нижнее бельё,
+* нижнее бельё женское,
+* магазин нижнего белья.   
+  
+Суммарное количество показов превышает 1,5 млн.
+  
+<img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1645957693/EVT/Screenshot_2022-02-27_132753_gd7tgl.png"/>
+
+## Целевое действие пользователя сайта
+Целевое действие пользователей сайта – купить интересующий или понравившийся товар.  
+Исходя из этого разработана Call-to-action ссылка «Порадовать сейчас» на странице с новинками.  
+<img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1645957454/EVT/Screenshot_2022-02-27_132313_w3d3qv.png"/>  
+Добавлены цифры и гарантии, чтобы повысить мотивацию пользователя к покупке.  
+<img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1645957454/EVT/Screenshot_2022-02-27_132334_ltica1.png"/>  
+Помимо этого, Call-to-action ссылка «Регистрируйся и наслаждайся шопингом», чтобы покупка товара происходила быстрее и комфортнее.  
+<img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1645957454/EVT/Screenshot_2022-02-27_132358_o3wzq9.png"/>
+
 ## Пользовательские истории
 1. Как пользователь, я хочу видеть актуальные сведения о товаре.
 2. Как пользователь, я хочу понимать, что магазин может мне предложить.
@@ -55,7 +74,7 @@
 Ссылка на проект: [lingerie shop.fig](https://www.figma.com/proto/2NQyqSEakbxK6ti944L99H/%D0%9C%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD-%D0%BD%D0%B8%D0%B6%D0%BD%D0%B5%D0%B3%D0%BE-%D0%B1%D0%B5%D0%BB%D1%8C%D1%8F?page-id=0%3A1&node-id=0%3A3&viewport=241%2C48%2C0.14&scaling=min-zoom)
 <img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1645917870/EVT/0001_2_xknlop.jpg"/>
 <img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1645917871/EVT/0001_3_a1kdbm.jpg"/>
-<img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1645917868/EVT/0001_4_zzowqj.jpg"/>
+<img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1645956713/EVT/Screenshot_2022-02-27_131107_d7kb84.png"/>
 <img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1645917870/EVT/0001_5_cq72rd.jpg"/>
 <img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1645917868/EVT/0001_6_ckrmo8.jpg"/>
 <img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1645917872/EVT/0001_7_srmhqd.jpg"/>
